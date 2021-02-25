@@ -1,0 +1,18 @@
+<SamsungMobileLanguage>
+   <Country>USA</Country>
+   <CountryISO>en</CountryISO>
+   <SalesCode>VZW</SalesCode>
+   <LanguageSet>
+          <Display>
+          ar_YE;en_US;es_US;ko_KR;zh_CN;vi_VN;zh_HK;zh_TW;
+          </Display>
+          <Input>
+                <SupportList>
+        	ar;en_US;es;ko;zh_CN;vi;
+                </SupportList>
+                <EnableList>
+				ar;en_US;
+                </EnableList>
+          </Input>
+   </LanguageSet>
+</SamsungMobileLanguage>
